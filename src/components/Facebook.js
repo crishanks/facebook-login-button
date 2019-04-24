@@ -50,7 +50,7 @@ export default class Facebook extends Component {
     }
 
     return (
-      <div>
+      <div style={{margin: '5%'}}>
         {fbContent}
       </div>
     )

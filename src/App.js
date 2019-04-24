@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>To get started authenticate with Facebook</h1>
-        <Facebook />
+        <h3>To get started authenticate with Facebook</h3>
       </header>
+      <Facebook />
     </div>
   );
 }
